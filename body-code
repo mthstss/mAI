@@ -1,0 +1,27 @@
+<t name="Homepage" t-name="website.homepage">
+    <t t-call="website.layout">
+        <t t-set="pageName" t-value="'homepage'"/>
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_title pt40 o_colored_level pb0 o_cc o_cc1" data-vcss="001" data-snippet="s_title" data-name="Titre">
+        <div class="s_allow_columns container">
+            <h2 class="display-3-fs" style="text-align: center;">mAI</h2>
+        </div>
+    </section><section class="s_text_image o_colored_level pt0 pb40 o_cc o_cc1" data-snippet="s_text_image" data-name="Texte - Image">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 pt16 pb16 o_colored_level">
+                    <h2 class="h3-fs">Avec mAI, passez à la vitesse supérieure !</h2>
+                    <p>Avec mAI, profitez de réponses courtes ou longues, simples ou spéciales, pour les particuliers ou professionnels, précises ou basiques et d'autres encore...</p>
+                    <p><a href="tel:/3-0" class="o_translate_inline btn btn-primary">Testez !</a></p>
+                </div>
+                <div class="col-lg-6 offset-lg-1 pt16 pb16 o_colored_level">
+                    <img src="/web/image/383-f3a0f388/Cr%C3%A9ativit%C3%A9%20Illumin%C3%A9e%20avec%20mAI.webp" alt="" class="img img-fluid mx-auto rounded o_we_custom_image" data-mimetype="image/webp" data-original-id="382" data-original-src="/web/image/382-fe7e3e26/Cr%C3%A9ativit%C3%A9%20Illumin%C3%A9e%20avec%20mAI.png" data-mimetype-before-conversion="image/png" data-resize-width="690" loading="lazy"/>
+                </div>
+            </div>
+        </div>
+    </section><section class="s_title pt40 pb40 o_colored_level o_cc o_cc4" data-vcss="001" data-snippet="s_title" data-name="Titre">
+        <div class="s_allow_columns container">
+            <h3 style="text-align: center;"><a href="/signalez-un-bug"><font class="text-o-color-3">Signalez un bug ?</font></a><font class="text-o-color-3">​​</font></h3>
+        </div>
+    </section></div>
+    </t>
+</t>
